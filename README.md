@@ -9,7 +9,7 @@ Some of my interests include:
 - Embedded systems
 - Controls
 
-You can reach me via email at cmorrell@unb.ca.
+You can reach me via email at christian.b.morrell@gmail.com.
 
 <!--
 **cmorrell28/cmorrell28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
