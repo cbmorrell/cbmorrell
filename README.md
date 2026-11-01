@@ -1,13 +1,6 @@
 ### About Me 😄
 
-I am a Master of Science in Electrical Engineering student at the Institute of Biomedical Engineering interested in all things programming. The primary focus of my research is in myoelectric control, but my academic and professional experience has taught me about breath diagnostics, computer vision, and more.
-
-Some of my interests include:
-
-- Machine learning
-- Computer vision
-- Embedded systems
-- Controls
+A hardworking and adaptable individual with hands-on experience in solving problems using a wide range of technologies, from low-level systems to high-level machine learning infrastructure. Expertise in designing machine learning algorithms, user interfaces, and firmware for user-centered applications (e.g., neuromotor interfaces). Skilled at collaborating effectively with multidisciplinary teams to achieve goals on time. Able to grasp and implement concepts quickly. Passionate about work that helps people.
 
 You can reach me via email at christian.b.morrell@gmail.com.
 
