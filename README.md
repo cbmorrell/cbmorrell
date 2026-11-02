@@ -1,6 +1,6 @@
 ### About Me 😄
 
-A hardworking and adaptable individual with hands-on experience in solving problems using a wide range of technologies, from low-level systems to high-level machine learning infrastructure. Expertise in designing machine learning algorithms, user interfaces, and firmware for user-centered applications (e.g., neuromotor interfaces). Skilled at collaborating effectively with multidisciplinary teams to achieve goals on time. Able to grasp and implement concepts quickly. Passionate about work that helps people.
+Versatile Data and Machine Learning Engineer with enterprise and research experience building scalable data pipelines, ML infrastructure, and real-time systems. Expertise in implementing end-to-end solutions, ranging from low-level firmware and signal processing to high-level cloud infrastructure and user interfaces. Skilled in collaborating across multidisciplinary teams to deliver robust, high-performance applications for human-centered technologies.
 
 You can reach me via email at christian.b.morrell@gmail.com.
 
