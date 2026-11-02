@@ -1,4 +1,4 @@
-### About Me 😄
+### About Me
 
 Versatile Data and Machine Learning Engineer with enterprise and research experience building scalable data pipelines, ML infrastructure, and real-time systems. Expertise in implementing end-to-end solutions, ranging from low-level firmware and signal processing to high-level cloud infrastructure and user interfaces. Skilled in collaborating across multidisciplinary teams to deliver robust, high-performance applications for human-centered technologies.
 
